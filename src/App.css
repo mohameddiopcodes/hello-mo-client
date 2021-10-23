@@ -1,3 +1,12 @@
+body {
+  background: #222;
+  color: #FAFAFA
+}
+
+h1 {
+  text-align: center;
+}
+
 .mainContainer {
   display: flex;
   justify-content: center;
@@ -24,7 +33,7 @@
   margin-top: 16px;
 }
 
-.waveButton {
+.helloButton {
   cursor: pointer;
   margin-top: 16px;
   padding: 8px;
